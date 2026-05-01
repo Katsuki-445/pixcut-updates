@@ -1,6 +1,6 @@
 {
-  "versionCode": 275,
-  "versionName": "2.7.5",
+  "versionCode": 276,
+  "versionName": "2.7.6",
   "downloadUrl": "https://katsuki-445.github.io/pixcut-updates/latest.apk",
   "changelog": "• Added 8 background removal APIs for better reliability\n• Fixed Infinix Note 30i alignment issues\n• Set high quality as default for new users\n• Improved gallery visibility for all features\n• Fixed PDF export in document scanner\n• Integrated email support system\n• Added in-app update system\n• Enhanced update system reliability\n• Improved update notification behavior",
   "forceUpdate": false,
